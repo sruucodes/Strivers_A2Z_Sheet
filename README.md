@@ -1,4 +1,4 @@
-# Striver's A2Z DSA Sheet Solutions - C++ & Python
+# Striver's A2Z DSA Sheet Solutions - C++
 
 Welcome to the **Striver's A2Z DSA Sheet Solutions** repository! This repository contains solutions to all the problems from Striver's A2Z DSA Sheet, implemented in **C++** by me. 
 
