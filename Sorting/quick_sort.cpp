@@ -1,12 +1,14 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+
 /*
 Time Complexity:
 Average case: O(N log N)
 Worst case: O(N²) (occurs when the pivot is the smallest or largest element every time)
 Space Complexity: O(log N) for the recursive call stack.
 */
+
 // Function to partition the array
 int partition(vector<int> &arr, int low, int high)
 {
